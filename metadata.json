@@ -1,0 +1,6 @@
+{
+  "name": "SMASH TRIP",
+  "description": "Jogo mobile 2D de lançamento e distância arcade com Brutus, Nika, Volt e Dummy Jack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
